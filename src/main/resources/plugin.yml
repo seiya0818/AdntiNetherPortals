@@ -1,0 +1,8 @@
+api-version: 1.17
+name: AntiNetherPortals
+version: 0.01-SNAPSHOT
+description: Disable nether portals
+author: seiya0818
+website: https://comserver.stars.ne.jp/plugin/index.html
+main: jp.seiya0818.antinetherportals.AntiNetherPortals
+database: false
